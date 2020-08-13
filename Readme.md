@@ -20,6 +20,7 @@ git checkout -b gh-pages
 It's time to bring your changes over to this repo. You may want to:
 - Replace content in index.html with that of your HTML file
 - Or add new style files, js files and link them to index.html as needed.
+- Modify Readme.md using markdown to change this page's content.
 
 ### Step 4: Push your changes to the gh-pages branch
 
