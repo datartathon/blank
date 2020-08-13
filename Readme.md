@@ -1,5 +1,5 @@
 # blank
-A blank repository for creating hosting a static HTML page into gh-pages.
+A blank repository to be used as a starting point for hosting a static HTML page using Github Pages.
 
 ## Instructions
 
